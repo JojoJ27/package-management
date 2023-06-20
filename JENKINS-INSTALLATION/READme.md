@@ -6,7 +6,7 @@
 
 ## Jenkins Installation And Setup In AWS EC2 Redhat Instnace.
 ##### Prerequisite
-+ AWS Acccount.
++ AWS Acccount
 + Create Redhat EC2 t2.medium Instance with 4GB RAM.
 + Create Security Group and open Required ports.
    + 8080 got Jenkins, ..etc
